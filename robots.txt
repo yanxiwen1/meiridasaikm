@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yanxiwen1.github.io/meiridasaikm/sitemap.xml
